@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Robert Wolfe 👋  
+Web Developer • Writer • Editor  
 
-<!--
-**xrobertwolfex/xrobertwolfex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create simple, plain-language guides that help people understand everyday online banking and money tasks.  
+My work focuses on clear explanations of routing numbers, deposits, transfers, mobile check issues, and common account problems — written for regular people who want straightforward answers without the confusion.
 
-Here are some ideas to get you started:
+### 🔗 My Projects  
+- **Online Banking Help** – https://www.onlinebankinghelp.com/  
+- **Check Cashing Insight** – https://checkcashinginsight.com/  
+- **Good Money Keeping** – https://goodmoneykeeping.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find Me Online  
+- **Linktree** – https://linktr.ee/xrwolfex  
+- **LinkedIn** – https://www.linkedin.com/in/robertwolfe/  
+- **About.me** – https://about.me/robert.wolfe  
+- **Twitter/X** – https://twitter.com/xrwolfex  
