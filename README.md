@@ -11,5 +11,4 @@ My work focuses on clear explanations of routing numbers, deposits, transfers, m
 
 ### 🌐 Find Me Online  
 - **Linktree** – https://linktr.ee/xrwolfex  
-- **LinkedIn** – https://www.linkedin.com/in/robertwolfe/  
 - **About.me** – https://about.me/robert.wolfe
