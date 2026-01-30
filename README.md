@@ -5,7 +5,8 @@ I create simple, plain-language guides that help people understand everyday onli
 My work focuses on clear explanations of routing numbers, deposits, transfers, mobile check issues, and common account problems — written for regular people who want straightforward answers without the confusion.
 
 ### 🔗 My Projects  
-- **Online Banking Help** – https://www.onlinebankinghelp.com/  
+- **Online Banking Help** – https://www.onlinebankinghelp.com/
+- **ATMs Near Me** – https://atms-nearme.com/  
 - **Check Cashing Insight** – https://checkcashinginsight.com/  
 - **Good Money Keeping** – https://goodmoneykeeping.com/
 
